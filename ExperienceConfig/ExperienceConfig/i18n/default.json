@@ -1,0 +1,26 @@
+{
+    "cfg_general_setting.name": "General settings",
+
+    "cfg_enable.name": "Enable Mod",
+    "cfg_enable.desc": "Toggle On or Off the Mod.",
+
+    "cfg_vanilla_skill_mul.name": "Vanilla Skill Multipliers",
+    "cfg_vanilla_skill_mul.desc": "Multiplier for the skills from base game.",
+
+    "cfg_farming_mult.name": "Farming EXP Multiplier",
+    "cfg_farming_mult.desc": "Multiplier to be applied to all farming related experience. 1 is Default.",
+    "cfg_fishing_mult.name": "Fishing EXP Multiplier",
+    "cfg_fishing_mult.desc": "Multiplier to be applied to all fishing related experience. 1 is Default.",
+    "cfg_foraging_mult.name": "Foraging EXP Multiplier",
+    "cfg_foraging_mult.desc": "Multiplier to be applied to all foraging related experience. 1 is Default.",
+    "cfg_mining_mult.name": "Mining EXP Multiplier",
+    "cfg_mining_mult.desc": "Multiplier to be applied to all mining related experience. 1 is Default.",
+    "cfg_combat_mult.name": "Combat EXP Multiplier",
+    "cfg_combat_mult.desc": "Multiplier to be applied to all combat related experience. 1 is Default.",
+
+    "cfg_spacecore_skill_mul.name": "SpaceCore Skill Multipliers",
+    "cfg_spacecore_skill_mul.desc": "Multiplier for custom skills made using SpaceCore.",
+
+    "cfg_spacecore_mult.name": "{0} EXP Multiplier",
+    "cfg_spacecore_mult.desc": "Multiplier to be applied to all {0} related experience. 1 is Default."
+}

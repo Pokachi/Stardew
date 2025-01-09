@@ -1,0 +1,10 @@
+{
+    "Name": "Experience Config",
+    "Author": "Reena",
+    "Version": "1.0.1",
+    "Description": "Experience Multiplier for Vanilla skills and SpaceCore custom skills. Supports fractions.",
+    "UniqueID": "Reena.ExperienceConfig",
+    "EntryDll": "ExperienceConfig.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": [ "Nexus:30725" ]
+}

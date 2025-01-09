@@ -1,0 +1,21 @@
+﻿{
+    "cfg_general_setting.name": "常规设置",
+    "cfg_enable.name": "启用模组",
+    "cfg_enable.desc": "切换打开或关闭模组.",
+    "cfg_vanilla_skill_mul.name": "原版技能经验倍数",
+    "cfg_vanilla_skill_mul.desc": "基础游戏技能的经验倍数设置.",
+    "cfg_farming_mult.name": "耕种经验倍数",
+    "cfg_farming_mult.desc": "适用于所有耕种相关获取经验的倍数设定. 默认值为1.",
+    "cfg_fishing_mult.name": "钓鱼经验倍数",
+    "cfg_fishing_mult.desc": "适用于所有钓鱼相关获取经验的倍数设定. 默认值为1.",
+    "cfg_foraging_mult.name": "觅食经验倍数",
+    "cfg_foraging_mult.desc": "适用于所有觅食相关获取经验的倍数设定. 默认值为1.",
+    "cfg_mining_mult.name": "采矿经验倍数",
+    "cfg_mining_mult.desc": "适用于所有采矿相关获取经验的倍数设定. 默认值为1.",
+    "cfg_combat_mult.name": "战斗经验倍数",
+    "cfg_combat_mult.desc": "适用于所有战斗相关获取经验的倍数设定. 默认值为1.",
+    "cfg_spacecore_skill_mul.name": "调用'SpaceCore'(1348)模组技能经验倍数",
+    "cfg_spacecore_skill_mul.desc": "调用'SpaceCore'(1348)模组定制的技能的经验倍数设置.",
+    "cfg_spacecore_mult.name": "{0}经验倍数",
+    "cfg_spacecore_mult.desc": "适用于所有{0}相关获取经验的倍数设定. 默认值为1."
+}
