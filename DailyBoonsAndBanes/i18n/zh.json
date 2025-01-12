@@ -13,7 +13,7 @@
 "cfg_max_duration.desc":"以游戏时长计算的每日增益和减益的最长持续时间.20是持续整个游戏日的.",
 
 
-"cfg_category_weight.name":"优点和缺点权重",
+"cfg_category_weight.name":"增益和减益权重",
 
 "cfg_major_bane_weight.name":"主要减益权重",
 "cfg_major_bane_weight.desc":"主要减益的权重.数字越小,每天开始时获得主要减益的几率越低.0表示关闭.",
