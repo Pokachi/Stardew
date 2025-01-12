@@ -1,0 +1,10 @@
+{
+    "Name": "Daily Boons and Banes",
+    "Author": "Reena",
+    "Version": "1.0.0",
+    "Description": "Get a random buff or debuff every day.",
+    "UniqueID": "Reena.DailyBoonsAndBanes",
+    "EntryDll": "DailyBoonsAndBanes.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": [ "Nexus:30725" ]
+}
